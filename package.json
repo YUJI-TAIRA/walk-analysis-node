@@ -1,0 +1,22 @@
+{
+  "name": "walk-analysis-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^2.2.2",
+    "@tensorflow/tfjs-node": "^4.6.0",
+    "canvas": "^2.11.2",
+    "canvas-to-blob": "^1.0.0",
+    "ffmpeg-static": "^5.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "gifencoder": "^2.0.1",
+    "pngjs": "^7.0.0"
+  }
+}
